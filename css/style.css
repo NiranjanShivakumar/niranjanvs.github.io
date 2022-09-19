@@ -1,0 +1,25 @@
+/* .n-banner .jumbotron .n-content{
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0%, 0%);
+    text-align: left;
+    color: #FFFFFF;
+    width: 40%;
+}
+
+.n-banner .banner-img img {
+    width: 100%;
+} */
+/* img{
+    width: 100%;
+}
+
+
+.resume-bg{
+background-image: url('../images/devops-banner.jpg');
+width: 100%;
+} */
+
+img{
+    width: 100%;
+}
